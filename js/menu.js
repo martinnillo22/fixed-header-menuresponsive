@@ -1,3 +1,11 @@
+/**
+ * Fixed Header Responsive
+ * @version v1.0
+ * @license GNU-GPL v3.0
+ * @copyright 2021 J&G Proyectos Web.
+ * @link del proyecto fork https://github.com/martinnillo22/fixed-header-menuresponsive
+ */
+
 const btnMenu = document.querySelector("#btnMenu");
 const menu = document.querySelector("#menu");
 btnMenu.addEventListener("click", function(){
