@@ -1,3 +1,12 @@
+/**
+ * Fixed Header Responsive
+ * @version v1.0
+ * @license GNU-GPL v3.0
+ * @copyright 2021 J&G Proyectos Web.
+ * @link del proyecto fork https://github.com/martinnillo22/fixed-header-menuresponsive
+ */
+
+/* General */
 * {
     box-sizing: border-box;
 }
@@ -6,6 +15,11 @@ body {
     margin: 0;
 }
 
+body > section {
+    padding: 5em 1em;
+}
+
+/* Header & Nav */
 header {
     width: 100%;
     position: fixed;
@@ -81,6 +95,7 @@ header {
     z-index: 3;
 }
 
+/* Optimización para móviles */
 @media screen and (min-width: 1024px) {
     .nav-bar {
         display: none;
@@ -121,9 +136,4 @@ header {
 
 @media screen and (min-width: 360px) {
     
-}
-
-/* General */
-body > section {
-    padding: 5em 1em;
 }
