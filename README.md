@@ -5,4 +5,4 @@ Este código fue tomado del original hecho por J&G Proyectos Web, solo que le ag
 
 DISCLAIMER
 El código original pertenece a J&G Proyectos Web. Para más información, visitar su canal: https://www.youtube.com/channel/UCrh7BmIGftt9I3fcABYoaBA
-Fork del código con licencia GPL v3.0. Para más información clic aquí: https://www.gnu.org/licenses/gpl-3.0.en.html
+Fork del código con licencia GPL v3.0. Favor de leer el archivo LICENSE para más información.
